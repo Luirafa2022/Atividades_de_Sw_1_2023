@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj": {}
+    "C:\\Users\\Aluno\\Downloads\\Atividades_de_Sw_1_2023\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj": {
+    "C:\\Users\\Aluno\\Downloads\\Atividades_de_Sw_1_2023\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Atividades_de_Sw_1_2023\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj",
         "projectName": "ExerciciosAlunos",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Downloads\\Atividades_de_Sw_1_2023\\ExerciciosAlunos - Desafio\\ExerciciosAlunos.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\ExerciciosAlunos - Desafio\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Downloads\\Atividades_de_Sw_1_2023\\ExerciciosAlunos - Desafio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
