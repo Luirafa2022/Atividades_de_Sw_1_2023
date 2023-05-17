@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\bin\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.exe
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\bin\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.deps.json
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\bin\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.runtimeconfig.json
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\bin\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.dll
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\bin\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.pdb
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.dll
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\refint\Aula Herança e Polimorfismo - Exercicios-02.dll
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.pdb
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\Aula Herança e Polimorfismo - Exercicios-02.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Aula Herança e Polimorfismo - Exercicios-02\obj\Debug\net7.0\ref\Aula Herança e Polimorfismo - Exercicios-02.dll
